@@ -1,0 +1,11 @@
+1. Brief description of the problem
+2. Product
+3. Platform
+4. Status
+5. Priority
+6. Seriousness
+7. Preconditions
+8. Playback Steps
+9. Actual result
+10. Expected result
+11. Attached files
