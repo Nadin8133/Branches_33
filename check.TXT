@@ -1,0 +1,6 @@
+1. Completeness
+2. Unambiguity
+3. Consistency
+4. Necessity
+5. Feasibility
+6. Testability
